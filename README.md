@@ -10,8 +10,8 @@ npm start
 ```
 
 ### Used Resource
-- bcrypt-nodejs: to generate a salt and encrypt user password with it
-- jwt-simple: to generate a token for user
-- mongoose (ORM): to deal with mongoDB
+- [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt-nodejs): to generate a salt and encrypt user password with it
+- [jwt-simple](https://www.npmjs.com/package/jwt-simple): to generate a token for user
+- mongoose (): to deal with mongoDB
 - passport & passport-jwt: to handle user authentication
 - passport-local to handle login
